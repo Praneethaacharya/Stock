@@ -1,0 +1,44 @@
+[
+    {
+      "title": "Reliance",
+      "quantity": 55,
+      "Buy": 2500,
+      "min": 2200,
+      "max": 2800,
+      "color":  "#F9F07A"
+    },
+    {
+      "title": "TCS",
+      "quantity": 100,
+      "Buy": 3200,
+      "min": 3000,
+      "max": 3500,
+      "color":  "#9195F6"
+    },
+    {
+      "title": "Infosys",
+      "quantity": 150,
+      "Buy": 1450,
+      "min": 1200,
+      "max": 1800,
+      "color":  "#B7C9F2"
+    },
+    {
+      "title": "HDFC Bank",
+      "quantity": 300,
+      "Buy": 1154,
+      "min": 900,
+      "max": 1300,
+      "color":  "#FFBE98"
+    },
+    {
+      "title": "Asian Paint",
+      "quantity": 25,
+      "Buy": 2500,
+      "min": 2200,
+      "max": 2800,
+      "color":  "#FB88B4"
+    }
+    
+  ]
+  
